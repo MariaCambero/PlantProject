@@ -1,0 +1,101 @@
+Target,Common name,Uniprot ID,ChEMBL ID,Target Class,Probability*,Known actives (3D/2D),,Compuesto
+Protein kinase C alpha,PRKCA,P17252,CHEMBL299,Kinase,0.083305553,66 /  263     ,,G
+Protein kinase C delta,PRKCD,Q05655,CHEMBL2996,Kinase,0.074392272,68 /  66     ,,G
+Voltage-gated potassium channel subunit Kv1.3,KCNA3,P22001,CHEMBL4633,Voltage-gated ion channel,0.074392272,14 /  2     ,,G
+Glucocorticoid receptor,NR3C1,P04150,CHEMBL2034,Nuclear receptor,0.074392272,147 /  16     ,,G
+Protein kinase C epsilon,PRKCE,Q02156,CHEMBL3582,Kinase,0.074392272,22 /  32     ,,G
+Isoleucyl-tRNA synthetase,IARS,P41252,CHEMBL3235,Enzyme,0.074392272,0 /  4     ,,G
+Cyclooxygenase-2,PTGS2,P35354,CHEMBL230,Oxidoreductase,0.074392272,33 /  15     ,,G
+Protein kinase C beta,PRKCB,P05771,CHEMBL3045,Kinase,0.074392272,45 /  9     ,,G
+P-glycoprotein 1,ABCB1,P08183,CHEMBL4302,Primary active transporter,0.074392272,200 /  41     ,,G
+Protein kinase C gamma,PRKCG,P05129,CHEMBL2938,Kinase,0.074392272,30 /  7     ,,G
+Protein kinase C eta,PRKCH,P24723,CHEMBL3616,Kinase,0.074392272,19 /  5     ,,G
+Protein kinase C theta,PRKCQ,Q04759,CHEMBL3920,Kinase,0.074392272,43 /  8     ,,G
+Protein-tyrosine phosphatase 1B,PTPN1,P18031,CHEMBL335,Phosphatase,0.074392272,47 /  53     ,,G
+Proteinase-activated receptor 2,F2RL1,P55085,CHEMBL5963,Family A G protein-coupled receptor,0.074392272,0 /  1     ,,G
+HMG-CoA reductase   (by homology),HMGCR,P04035,CHEMBL402,Oxidoreductase,0.074392272,133 /  105     ,,G
+Matrix metalloproteinase 1,MMP1,P03956,CHEMBL332,Protease,0.074392272,194 /  0     ,,G
+Telomerase reverse transcriptase,TERT,O14746,CHEMBL2916,Enzyme,0.074392272,7 /  2     ,,G
+Programmed cell death protein 4,PDCD4,Q53EL6,CHEMBL1781868,Unclassified protein,0.074392272,0 /  8     ,,G
+Proto-oncogene c-JUN,JUN,P05412,CHEMBL4977,Transcription factor,0.074392272,7 /  6     ,,G
+Androgen Receptor,AR,P10275,CHEMBL1871,Nuclear receptor,0.074392272,135 /  51     ,,G
+Progesterone receptor,PGR,P06401,CHEMBL208,Nuclear receptor,0.074392272,33 /  40     ,,G
+Glutathione S-transferase Mu 1,GSTM1,P09488,CHEMBL2081,Enzyme,0.074392272,0 /  1     ,,G
+Sarcoplasmic/endoplasmic reticulum calcium ATPase 1,ATP2A1,O14983,CHEMBL3136,Hydrolase,0.074392272,0 /  4     ,,G
+C-C chemokine receptor type 1,CCR1,P32246,CHEMBL2413,Family A G protein-coupled receptor,0.074392272,173 /  0     ,,G
+Pregnane X receptor,NR1I2,O75469,CHEMBL3401,Nuclear receptor,0.074392272,6 /  0     ,,G
+Glycogen synthase kinase-3 beta,GSK3B,P49841,CHEMBL262,Kinase,0.074392272,114 /  3     ,,G
+Cyclin-dependent kinase 2,CDK2,P24941,CHEMBL301,Kinase,0.074392272,123 /  0     ,,G
+Cyclin-dependent kinase 1,CDK1,P06493,CHEMBL308,Kinase,0.074392272,132 /  0     ,,G
+Nerve growth factor receptor Trk-A,NTRK1,P04629,CHEMBL2815,Kinase,0.074392272,126 /  0     ,,G
+Kappa Opioid receptor,OPRK1,P41145,CHEMBL237,Family A G protein-coupled receptor,0.074392272,531 /  12     ,,G
+Phosphodiesterase 4D,PDE4D,Q08499,CHEMBL288,Phosphodiesterase,0.074392272,7 /  11     ,,G
+3-phosphoinositide dependent protein kinase-1,PDPK1,O15530,CHEMBL2534,Kinase,0.074392272,19 /  0     ,,G
+Ribosomal protein S6 kinase alpha 5,RPS6KA5,O75582,CHEMBL4237,Kinase,0.074392272,4 /  3     ,,G
+Cyclin-dependent kinase 1/cyclin B,CCNB3 CDK1 CCNB1 CCNB2,Q8WWL7 P06493 P14635 O95067,CHEMBL2094127,Other cytosolic protein,0.074392272,16 /  0     ,,G
+Cyclin-dependent kinase 2/cyclin A,CDK2 CCNA1 CCNA2,P24941 P78396 P20248,CHEMBL2094128,Other cytosolic protein,0.074392272,62 /  0     ,,G
+Ribosomal protein S6 kinase alpha 3,RPS6KA3,P51812,CHEMBL2345,Kinase,0.074392272,8 /  0     ,,G
+Period circadian protein homolog 2,PER2,O15055,CHEMBL3751648,Unclassified protein,0.074392272,16 /  0     ,,G
+Inhibitor of nuclear factor kappa B kinase beta subunit,IKBKB,O14920,CHEMBL1991,Kinase,0.074392272,21 /  6     ,,G
+Cathepsin D,CTSD,P07339,CHEMBL2581,Protease,0.074392272,212 /  0     ,,G
+PI3-kinase p110-alpha subunit,PIK3CA,P42336,CHEMBL4005,Enzyme,0.074392272,367 /  0     ,,G
+MAP kinase p38 alpha,MAPK14,Q16539,CHEMBL260,Kinase,0.074392272,176 /  0     ,,G
+Complement factor D,CFD,P00746,CHEMBL2176771,Protease,0.074392272,62 /  0     ,,G
+"Heat shock protein 75 kDa, mitochondrial",TRAP1,Q12931,CHEMBL1075132,Other cytosolic protein,0.074392272,5 /  0     ,,G
+Renin,REN,P00797,CHEMBL286,Protease,0.074392272,398 /  0     ,,G
+P2X purinoceptor 3,P2RX3,P56373,CHEMBL2998,Ligand-gated ion channel,0.074392272,241 /  0     ,,G
+Heat shock protein HSP 90-beta,HSP90AB1,P08238,CHEMBL4303,Other cytosolic protein,0.074392272,41 /  0     ,,G
+Tubulin--tyrosine ligase,TTL,Q8NG68,CHEMBL5549,Enzyme,0.074392272,6 /  14     ,,G
+Transient receptor potential cation channel subfamily V member 4,TRPV4,Q9HBA0,CHEMBL3119,Voltage-gated ion channel,0.074392272,9 /  5     ,,G
+Oxytocin receptor,OXTR,P30559,CHEMBL2049,Family A G protein-coupled receptor,0.074392272,22 /  0     ,,G
+Subtilisin/kexin type 7,PCSK7,Q16549,CHEMBL2232,Protease,0.074392272,0 /  1     ,,G
+Potassium channel subfamily K member 3,KCNK3,O14649,CHEMBL2321613,Voltage-gated ion channel,0.074392272,27 /  0     ,,G
+MAP kinase ERK2,MAPK1,P28482,CHEMBL4040,Kinase,0.074392272,201 /  0     ,,G
+CDK8/Cyclin C,CCNC CDK8,P24863 P49336,CHEMBL3038474,Kinase,0.074392272,8 /  0     ,,G
+Cell division protein kinase 8,CDK8,P49336,CHEMBL5719,Kinase,0.074392272,15 /  0     ,,G
+Stem cell growth factor receptor,KIT,P10721,CHEMBL1936,Kinase,0.074392272,33 /  0     ,,G
+Serine/threonine-protein kinase PIM1,PIM1,P11309,CHEMBL2147,Kinase,0.074392272,121 /  0     ,,G
+Adenosine A3 receptor,ADORA3,P0DMS8,CHEMBL256,Family A G protein-coupled receptor,0.074392272,154 /  0     ,,G
+Serine/threonine-protein kinase PIM2,PIM2,Q9P1W9,CHEMBL4523,Kinase,0.074392272,89 /  0     ,,G
+Serine/threonine-protein kinase PIM3,PIM3,Q86V86,CHEMBL5407,Kinase,0.074392272,69 /  0     ,,G
+Serotonin 6 (5-HT6) receptor,HTR6,P50406,CHEMBL3371,Family A G protein-coupled receptor,0.074392272,64 /  0     ,,G
+Interleukin-8 receptor A,CXCR1,P25024,CHEMBL4029,Family A G protein-coupled receptor,0.074392272,71 /  2     ,,G
+Hepatocyte growth factor receptor,MET,P08581,CHEMBL3717,Kinase,0.074392272,88 /  0     ,,G
+Cyclin-dependent kinase 5/CDK5 activator 1,CDK5R1 CDK5,Q15078 Q00535,CHEMBL1907600,Kinase,0.074392272,73 /  0     ,,G
+Phosphodiesterase 3,PDE3A,Q14432,CHEMBL241,Phosphodiesterase,0.074392272,9 /  0     ,,G
+Phosphodiesterase 4B,PDE4B,Q07343,CHEMBL275,Phosphodiesterase,0.074392272,24 /  0     ,,G
+Phosphodiesterase 7A,PDE7A,Q13946,CHEMBL3012,Phosphodiesterase,0.074392272,22 /  0     ,,G
+Thrombin,F2,P00734,CHEMBL204,Protease,0.074392272,96 /  9     ,,G
+Signal transducer and activator of transcription 3,STAT3,P40763,CHEMBL4026,Transcription factor,0.074392272,7 /  10     ,,G
+Poly [ADP-ribose] polymerase-1,PARP1,P09874,CHEMBL3105,Enzyme,0.074392272,74 /  0     ,,G
+Phosphodiesterase 10A,PDE10A,Q9Y233,CHEMBL4409,Phosphodiesterase,0.074392272,363 /  0     ,,G
+PI3-kinase p110-delta subunit,PIK3CD,O00329,CHEMBL3130,Enzyme,0.074392272,97 /  0     ,,G
+Proteasome Macropain subunit,PSMB2,P49721,CHEMBL3492,Protease,0.074392272,2 /  0     ,,G
+26S proteosome,PSMB1,P20618,CHEMBL4208,Protease,0.074392272,2 /  0     ,,G
+Proteasome Macropain subunit MB1,PSMB5,P28074,CHEMBL4662,Protease,0.074392272,11 /  0     ,,G
+Tyrosine-protein kinase JAK3,JAK3,P52333,CHEMBL2148,Kinase,0.074392272,133 /  0     ,,G
+Tyrosine-protein kinase JAK2,JAK2,O60674,CHEMBL2971,Kinase,0.074392272,164 /  0     ,,G
+Leucine-rich repeat serine/threonine-protein kinase 2,LRRK2,Q5S007,CHEMBL1075104,Kinase,0.074392272,113 /  0     ,,G
+p53-binding protein Mdm-2,MDM2,Q00987,CHEMBL5023,Other nuclear protein,0.074392272,161 /  0     ,,G
+Insulin-like growth factor I receptor,IGF1R,P08069,CHEMBL1957,Kinase,0.074392272,75 /  0     ,,G
+Dopamine D1 receptor,DRD1,P21728,CHEMBL2056,Family A G protein-coupled receptor,0.074392272,35 /  0     ,,G
+Histone deacetylase 3/Nuclear receptor corepressor 2 (HDAC3/NCoR2),NCOR2 HDAC3,Q9Y618 O15379,CHEMBL2111363,Eraser,0.074392272,5 /  0     ,,G
+Histone deacetylase 8,HDAC8,Q9BY41,CHEMBL3192,Eraser,0.074392272,12 /  0     ,,G
+DNA-dependent protein kinase,PRKDC,P78527,CHEMBL3142,Kinase,0.074392272,81 /  0     ,,G
+Delta opioid receptor,OPRD1,P41143,CHEMBL236,Family A G protein-coupled receptor,0.074392272,475 /  1     ,,G
+Arachidonate 5-lipoxygenase,ALOX5,P09917,CHEMBL215,Oxidoreductase,0.074392272,38 /  5     ,,G
+11-beta-hydroxysteroid dehydrogenase 1,HSD11B1,P28845,CHEMBL4235,Enzyme,0.074392272,145 /  22     ,,G
+Kinesin-1 heavy chain/ Tyrosine-protein kinase receptor RET,RET,P07949,CHEMBL2041,Kinase,0.074392272,17 /  0     ,,G
+Tyrosine-protein kinase LCK,LCK,P06239,CHEMBL258,Kinase,0.074392272,42 /  0     ,,G
+Tyrosine-protein kinase TYK2,TYK2,P29597,CHEMBL3553,Kinase,0.074392272,55 /  0     ,,G
+MAP kinase signal-integrating kinase 2,MKNK2,Q9HBH9,CHEMBL4204,Kinase,0.074392272,17 /  0     ,,G
+ALK tyrosine kinase receptor,ALK,Q9UM73,CHEMBL4247,Kinase,0.074392272,19 /  0     ,,G
+Ephrin receptor,EPHB4,P54760,CHEMBL5147,Kinase,0.074392272,33 /  0     ,,G
+Bromodomain-containing protein 4,BRD4,O60885,CHEMBL1163125,Reader,0.074392272,45 /  0     ,,G
+Protein Wnt-3a,WNT3A,P56704,CHEMBL1255137,Unclassified protein,0.074392272,9 /  0     ,,G
+Tyrosine-protein kinase FYN,FYN,P06241,CHEMBL1841,Kinase,0.074392272,14 /  0     ,,G
+Tyrosine-protein kinase YES,YES1,P07947,CHEMBL2073,Kinase,0.074392272,14 /  0     ,,G
+Serine/threonine-protein kinase Aurora-B,AURKB,Q96GD4,CHEMBL2185,Kinase,0.074392272,69 /  0     ,,G
+Tyrosine-protein kinase SRC,SRC,P12931,CHEMBL267,Kinase,0.074392272,109 /  0     ,,G
+Serine/threonine-protein kinase Aurora-A,AURKA,O14965,CHEMBL4722,Kinase,0.074392272,101 /  0     ,,G
+CREB-binding protein/p53,CREBBP,Q92793,CHEMBL5747,Writer,0.074392272,13 /  0     ,,G

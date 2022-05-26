@@ -1,0 +1,192 @@
+---
+title: "Visual Proyecto"
+author: "Maria Cambero"
+date: "27/10/2021"
+output: 
+  html_document:
+    toc: true
+    theme: readable
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+# Cargar librerias
+
+library(dplyr)
+library(tidyverse)
+library(igraph)
+library(tidygraph)
+library(ggraph)
+library(tidyr)
+
+
+```
+
+
+# Leo mis datos "enlaces"
+
+```{r}
+
+
+enlaces <- read.csv(file = "edges1.csv")
+str(enlaces)
+typeof(enlaces$node1)
+typeof(enlaces$node2)
+typeof(enlaces$experimentally)
+str(enlaces$node1)
+length(enlaces)
+typeof(enlaces)
+dim(enlaces)
+colnames(enlaces)
+```
+
+# Leo mis datos "nodos"
+
+```{r}
+
+nodos <- read.csv(file = "nodos2.csv")
+str(nodos)
+typeof(nodos)
+dim(nodos)
+colnames(nodos)
+```
+
+
+
+# Los hago red (Sin saber como, REVISAR COMANDOS)
+
+
+```{r}
+g <- graph_from_data_frame(enlaces, directed = F)
+
+g
+
+plot(g)
+
+```
+
+# HASTA AQUI YA SE PUDO
+
+# voy a usar tidygraph para manipular más fácil
+
+
+
+```{r}
+
+g <- as_tbl_graph(g)
+g
+head(nodos)
+
+```
+
+
+
+# activo nodos, y les uno la informacion que tengo en mi objeto de nodos (ESTO NO SE PUEDEEEE)
+
+
+```{r}
+
+g <-
+  g %>% 
+  activate("nodes") %>% 
+  left_join(y = nodos, by = c("name"="Protein"))
+
+print(g)
+
+```
+
+```{r}
+
+# Nueva Tabla
+
+# CARGAR DATOS
+
+B <- read.csv(file = 'SwissTargetPrediction_B.csv')
+C <- read.csv(file = 'SwissTargetPrediction_C.csv')
+D <- read.csv(file = 'SwissTargetPrediction_D.csv')
+E <- read.csv(file = 'SwissTargetPrediction_E.csv')
+F1 <- read.csv(file = 'SwissTargetPrediction_F.csv')
+G <- read.csv(file = 'SwissTargetPrediction_G.csv')
+I <- read.csv(file = 'SwissTargetPrediction_I.csv')
+
+#Añadir columna con compuesto
+
+#Unir Tablas de Compuestos
+
+UnionComp <- rbind(B, C, D, F1, G, I)
+UnionComp <- UnionComp[, -1]
+UnionComp <- UnionComp[, -2]
+UnionComp <- UnionComp[, -2]
+UnionComp <- UnionComp[, -2]
+UnionComp <- UnionComp[, -2]
+UnionComp <- UnionComp[, -2]
+UnionComp <- UnionComp[, -2]
+x <- c(NA)
+UnionComp <- cbind(UnionComp, x)
+names(UnionComp) = NULL
+head(UnionComp)
+
+head(enlaces)
+
+#Unir Tablas enlaces con compuestos
+
+
+
+Enlaces_Compuestos <- rbind(enlaces, UnionComp)
+head(Enlaces_Compuestos)
+
+
+
+
+
+
+```
+
+# Lo que sigue es ver el nivel uno NODOS DE ENTRADA
+
+```{r}
+
+
+
+```
+
+```{r}
+
+
+
+
+```
+
+
+
+
+
+## ¿Cual tiene mayor grado de interaccion? 
+
+
+
+
+## ¿Cual menor grado de interaccion?
+
+
+
+
+
+
+## ¿A que metabolito se relacionan?
+
+
+
+
+
+
+
+### Revisar la distribucion de grado en redes
+
