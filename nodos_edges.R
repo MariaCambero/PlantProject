@@ -32,7 +32,7 @@ colnames(nodos)
 
 g <- graph_from_data_frame(enlaces, directed = F)
 
-g
+
 
 plot(g)
 
